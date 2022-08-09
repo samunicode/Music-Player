@@ -8,5 +8,4 @@
 
 ## Screenshots
 
-![App Screenshot](images/samunicode.png)
 ![App Screenshot](images/mp3.png)
