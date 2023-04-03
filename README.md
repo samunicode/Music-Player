@@ -1,5 +1,5 @@
 
-[![MasterHead](images/banner.png)](https://sameerchauhan.in)
+[![MasterHead](https://samunicode.github.io/MyFileHosting/Music-Player-Media/banner.png)](https://sameerchauhan.in)
 # Music Player
 
 - A simple HTML, CSS, and JavaScript music player that includes features like looping, repeating, and shuffle as well as play/pause and play next/previous tracks. 
