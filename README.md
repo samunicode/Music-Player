@@ -9,7 +9,7 @@
 
 ## Screenshots
 
-![App Screenshot](images/player.png)
+![App Screenshot](https://samunicode.github.io/MyFileHosting/Music-Player-Media/player.png)
 
 ## 🔗 Reach out to me at:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.sameerchauhan.in)
